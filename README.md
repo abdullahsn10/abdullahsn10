@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **MERN Full stack, Python Django**
 
-- 💬 Ask me about **JavaScript, Python**
+- 💬 Ask me about **JavaScript, Python, OOP, DB, AI**
 
 - 📫 How to reach me **1201952@student.birzeit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/abdullah-naser-226b81246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah naser" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdullah-sn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah naser" height="30" width="40" /></a>
 <a href="https://www.facebook.com/stegn10abod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah s. naser" height="30" width="40" /></a>
 </p>
 
