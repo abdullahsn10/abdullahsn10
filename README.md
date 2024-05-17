@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsn10&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsn10" /> </p>
 
-- 🌱 I’m currently learning **MERN Full stack, Python Django**
+- 🌱 I’m currently learning **Python Django (Backend Web Developement)**
 
-- 💬 Ask me about **OOP, DS, JavaScript, Python, DB, AI, Networks**
+- 💬 Ask me about **OOP, DS, DB, Backend, Frontend, Python, JavaScript, Django, Android Developement**
 
 - 📫 How to reach me **1201952@student.birzeit.edu**
 
