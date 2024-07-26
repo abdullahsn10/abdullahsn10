@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsn10&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsn10" /> </p>
 
-- 🌱 I’m currently learning **Web Backend Development using Java Spring and SpringBoot**
+- 🌱 I’m currently learning **Python Backend Developement - Fast API**
 
-- 💬 Ask me about **Python, Java, JavaScript, Django, SpringBoot, Android**
+- 💬 Ask me about **Python, Java, JavaScript, Django, Fast API, SpringBoot, Android**
 
 - 📫 How to reach me **1201952@student.birzeit.edu**
 
