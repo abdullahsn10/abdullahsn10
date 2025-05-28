@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsn10&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsn10" /> </p>
 
-- 💬 Ask me about **Python, Java, JavaScript, Django, FastAPI, SpringBoot, Android**
+- 💬 Ask me about **Java, Python, JavaScript,SpringBoot, Django, FastAPI, Android**
 
 - 📫 How to reach me **1201952@student.birzeit.edu**
 
